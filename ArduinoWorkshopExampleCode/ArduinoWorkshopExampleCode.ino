@@ -90,7 +90,7 @@ void buzzing(){
     	break;
       return;
     }
-    otherwise (No else) make LED Green and buzz using the notes.
+    //otherwise (No else) make LED Green and buzz using the notes.
     digitalWrite(green, HIGH);
     digitalWrite(red, LOW);
     digitalWrite(blue, LOW);
