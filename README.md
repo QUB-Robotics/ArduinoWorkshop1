@@ -1,4 +1,4 @@
-There are 2 files in this repo: an example file that does not need edited .../ArduinoWorkshopExampleCode and a file for you to fill in the blank code .../ArduinoWorkshopGappedCode.
+There are 2 files in this repo: an example file that does not need edited .../ArduinoWorkshop and a file for you to fill in the blank code .../ArduinoWorkshopGappedCode.
 You will need to click the green code button at the top of this page and click download .zip, this will be a zip file with both versions of the code. 
 Once the zip file is downloaded extract it in a safe place.
 
